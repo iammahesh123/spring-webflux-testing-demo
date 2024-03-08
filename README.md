@@ -15,7 +15,7 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/spring-webflux-testing-demo.git
+    git clone https://github.com/iammahesh123/spring-webflux-testing-demo.git
     ```
 
 2. Import the project into your preferred IDE.
@@ -25,7 +25,8 @@ To run this project locally, follow these steps:
 ## Technologies Used
 
 - Java
-- Spring WebFlux
+- Spring Reactive
+- Mongodb
 - JUnit 5
 - Mockito
 - Reactor
